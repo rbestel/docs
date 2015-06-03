@@ -1,5 +1,5 @@
 ---
-title: Syestem Requirements
+title: System Requirements
 taxonomy:
     category: docs
 visible: true
